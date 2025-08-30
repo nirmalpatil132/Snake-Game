@@ -40,4 +40,5 @@ A sleek, modern Snake game built with Python Turtle graphics featuring contempor
 ---
 
 **Built with Python Turtle Graphics | No dependencies required**
-**Builf by Nirmal Patil With ❤️**
+
+**Build by Nirmal Patil With ❤️**
